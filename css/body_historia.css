@@ -1,0 +1,56 @@
+.historia {
+    position: relative;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.78);
+    border-radius: 15px;
+    margin-top: -45px;
+}
+
+.historia_contenedor {
+    padding-left: 60px;
+    padding-right: 48px;
+    padding-bottom: 20px;
+}
+
+.historia_contenedor h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 150%;
+    margin-left: -21px;
+    padding-top: 25px;
+}
+
+.historia_contenedor p {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 100%;
+}
+
+.historia_contenedor h3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 100%;
+    margin-left: -21px;
+    padding-top: 25px;
+}
+
+.pictures-cartel-0 {
+    padding-left: 30%;
+    width: 37%;
+    height: 37%;
+}
+
+.pictures-cartel-1 {
+    padding-left: 30%;
+    width: 37%;
+    height: 37%;
+}
+
+.pictures-cartel-2 {
+    padding-left: 30%;
+    width: 37%;
+    height: 37%;
+}
+
+.pictures-cartel-3 {
+    padding-left: 30%;
+    width: 37%;
+    height: 37%;
+}

@@ -1,0 +1,32 @@
+.que_son {
+    position: relative;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.78);
+    border-radius: 15px;
+    margin-top: -45px;
+}
+
+.que_son_contenedor {
+    padding-left: 60px;
+    padding-right: 48px;
+    padding-bottom: 20px;
+}
+
+.que_son_contenedor>h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 150%;
+    margin-left: -21px;
+    padding-top: 25px;
+}
+
+.que_son_contenedor>p {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 100%;
+}
+
+.picture-que_son {
+    max-width: 600px;
+    height: auto;
+    padding-left: 250px;
+    padding-bottom: 25px;
+}

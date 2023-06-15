@@ -1,0 +1,57 @@
+.contenedor {
+    position: relative;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.78);
+    border-radius: 15px;
+    margin-top: -45px;
+}
+
+.elementos {
+    padding-left: 60px;
+    padding-right: 48px;
+    padding-bottom: 20px;
+}
+
+.elementos h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 150%;
+    margin-left: -21px;
+    padding-top: 25px;
+}
+
+.elementos p {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 100%;
+}
+
+.elementos h3, h5 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 100%;
+    margin-left: -21px;
+    padding-top: 25px;
+}
+
+.tinta {
+    padding-left: 60px;
+    padding-right: 48px;
+    padding-bottom: 20px;
+}
+
+.tinta_contenedor h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 150%;
+    margin-left: -21px;
+    padding-top: 25px;
+}
+
+.tinta_contenedor p {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 100%;
+}
+
+.tinta_contenedor h3, h5 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 100%;
+    margin-left: -21px;
+    padding-top: 25px;
+}
